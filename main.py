@@ -28,5 +28,5 @@ fname = config['fif']
 raw = mne.io.read_raw_fif(fname)
 
 # save mne/raw
-raw.save(os.path.join('out_dir','meg_raw.fif'))
+raw.save(os.path.join('out_dir','raw.fif'))
 
