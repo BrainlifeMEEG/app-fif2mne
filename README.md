@@ -3,7 +3,7 @@
 [![Abcdspec-compliant](https://img.shields.io/badge/ABCD_Spec-v1.1-green.svg)](https://github.com/brain-life/abcd-spec)
 [![Run on Brainlife.io](https://img.shields.io/badge/Brainlife-bl.app.632-blue.svg)](https://doi.org/10.25663/brainlife.app.632)
 
-This Brainlife App convert MEG fif files to MNE
+This Brainlife App converts MEG `fif` files to MNE raw data, using `mne.io.read_raw_fif` function from MNE-python.
 
 ## Authors
 - Guiomar Niso (guiomar.niso@ctb.upm.es)
