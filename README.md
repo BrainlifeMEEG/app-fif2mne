@@ -16,13 +16,9 @@ Converts MEG `fif` files to MNE raw data, using `mne.io.read_raw_fif` function f
 ## Citations
 We kindly ask that you cite the following articles when publishing papers and code using this code. 
 
-*- brainlife.io Publishing and Apps:*
+**brainlife. io: A decentralized and open source cloud platform to support neuroscience research**. Hayashi, S., Caron, B. A., et al. & Pestilli, F. (2023). ArXiv. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10274934/
 
-Hayashi, S., Caron, B. A., et al. & Pestilli, F. (2023). **brainlife. io: A decentralized and open source cloud platform to support neuroscience research**. ArXiv. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10274934/
-
-*- MNE-Python package:* 
-
-Gramfort A, Luessi M, Larson E, Engemann DA, Strohmeier D, Brodbeck C, Goj R, Jas M, Brooks T, Parkkonen L, and Hämäläinen MS.  **MEG and EEG data analysis with MNE-Python**. Frontiers in Neuroscience, 7(267):1–13, 2013. https://doi.org/10.3389/fnins.2013.00267
+**MEG and EEG data analysis with MNE-Python**. Gramfort A, Luessi M, Larson E, Engemann DA, Strohmeier D, Brodbeck C, Goj R, Jas M, Brooks T, Parkkonen L, and Hämäläinen MS.  Frontiers in Neuroscience, 7(267):1–13, 2013. https://doi.org/10.3389/fnins.2013.00267
 
 ## Funding Acknowledgement
 brainlife.io is publicly funded and for the sustainability of the project it is helpful to Acknowledge the use of the platform. We kindly ask that you acknowledge the funding below in your publications and code reusing this code.
