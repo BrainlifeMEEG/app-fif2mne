@@ -14,7 +14,7 @@ Converts MEG `fif` files to MNE raw data, using `mne.io.read_raw_fif` function f
 - [Guiomar Niso](guiomar.niso@ctb.upm.es), Instituto Cajal, CSIC, Spain
 
 ## Citations
-We kindly ask that you cite the following articles when publishing papers and code using this code. 
+We kindly ask that you cite the following articles when publishing papers and code using this app. 
 
 **brainlife. io: A decentralized and open source cloud platform to support neuroscience research**. Hayashi, S., Caron, B. A., et al. & Pestilli, F. (2023). ArXiv. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10274934/
 
