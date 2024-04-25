@@ -30,3 +30,12 @@ raw = mne.io.read_raw_fif(fname)
 # save mne/raw
 raw.save(os.path.join('out_dir','raw.fif'))
 
+# create a product.json file to show info in the process output
+info = raw.info
+dict_json_product = {'brainlife': []}
+
+info = str(info)
+dict_json_product['brainlife'].append({'type': 'info', 'msg': info})
+
+with open('product.json', 'w') as outfile:
+    json.dump(dict_json_product, outfile)
